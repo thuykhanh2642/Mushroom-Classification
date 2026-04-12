@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\mushroom",
+    "\\src"
   ],
+  "SelectedNode": "\\src\\Mushroom_Classification.ipynb",
   "PreviewInSolutionExplorer": false
 }

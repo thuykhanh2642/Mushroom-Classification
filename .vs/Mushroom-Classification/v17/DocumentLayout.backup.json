@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\src\\Mushroom_Classification.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Mushroom_Classification.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\mushroom\\expanded_csv.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mushroom\\expanded_csv.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +71,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mushroom_Classification.ipynb",
+              "DocumentMoniker": "C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\src\\Mushroom_Classification.ipynb",
+              "RelativeDocumentMoniker": "src\\Mushroom_Classification.ipynb",
+              "ToolTip": "C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\src\\Mushroom_Classification.ipynb",
+              "RelativeToolTip": "src\\Mushroom_Classification.ipynb",
+              "ViewState": "AgIAAJkEAAAAAAAAAAAAAA4FAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T01:41:04.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "expanded_csv.csv",
+              "DocumentMoniker": "C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\mushroom\\expanded_csv.csv",
+              "RelativeDocumentMoniker": "mushroom\\expanded_csv.csv",
+              "ToolTip": "C:\\Users\\Xander.DESKTOP-D3VRDR2\\source\\repos\\thuykhanh2642\\Mushroom-Classification\\mushroom\\expanded_csv.csv",
+              "RelativeToolTip": "mushroom\\expanded_csv.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-02T03:24:27.748Z"
             }
           ]
         }
